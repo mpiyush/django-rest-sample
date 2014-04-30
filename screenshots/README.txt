@@ -1,0 +1,1 @@
+Screenshots of a django webservice with bootstrap js and css.
